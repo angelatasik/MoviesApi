@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Angela\Documents\WhoWroteItLoader\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Angela\Documents\WhoWroteItLoader\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_2821ca3373ae864c863e998b3256f4747760491f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Angela\Documents\WhoWroteItLoader\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Angela\Documents\WhoWroteItLoader\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_92465cf6904a5c5806dd066519e4e14f1159eb9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Angela\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Angela\Documents\WhoWroteItLoader\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_c2f20a1172a5051a2e655a5a7889dc61ec8930c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Angela\Documents\WhoWroteItLoader\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Angela\Documents\WhoWroteItLoader\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_930023305ad7d8e947441e73a4b2d673e72ef936.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Angela\Documents\WhoWroteItLoader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Angela\Documents\WhoWroteItLoader\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_2fc3583ac47fc994810e70c117b8370c4cca17d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Angela\Documents\WhoWroteItLoader\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Angela\Documents\WhoWroteItLoader\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_8d7581b24e007b3da854471b86585fbf957b5bcf.jar" />
+    </item>
+
+</items>
